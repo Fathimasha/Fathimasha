@@ -46,22 +46,22 @@ A full-stack web application for managing students, companies, placements, and r
 - CRUD Operations
 - Responsive User Interface
 
-🔗 Repository: *(Add your repository link here)*
+🔗 Repository: (https://github.com/Fathimasha/Placement-Management-System)
 
 ---
 
 ### 📚 More Projects
 
-Explore my repositories to find projects built using Java, Spring Boot, React, and MySQL.
+Explore my repositories to find projects built using Java, Spring Boot, React, and MySQL, StreamLit, Python and ML.
 
 ---
 
 ## 🌱 Currently Learning
 
 - Spring Security
-- JWT Authentication
 - Docker
 - REST API Best Practices
+- Java Full-stack Development
 
 ---
 
@@ -75,8 +75,8 @@ Explore my repositories to find projects built using Java, Spring Boot, React, a
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN
-- 📧 Email: your.email@example.com
+- 💼 LinkedIn: [https://www.linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/fathimashaik2502/)
+- 📧 Email: fathimashaik2502@gmail.com
 
 ---
 
