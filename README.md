@@ -3,9 +3,9 @@
 </p>
 
 
-# Hi there, I'm Fathima Sha 👋
+# Hi there, I'm Fathima Shaik 👋
 
-### 🎓 Computer Science Student | Software Development & AI Enthusiast
+## 🎓 Computer Science Student | Software Development & AI Enthusiast
 
 I'm passionate about building full-stack web applications and exploring Artificial Intelligence through Machine Learning and Natural Language Processing. I enjoy developing scalable solutions with Java, Spring Boot, React, Python, and MySQL while continuously learning new technologies and improving my problem-solving skills.
 
@@ -58,11 +58,14 @@ I'm passionate about building full-stack web applications and exploring Artifici
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 
 ---
+
+## 📌 Feature Projects
+
 | Project | Tech Stack | GitHub | Live Demo |
 |---------|------------|---------|-----------|
-| 🎓 Placement Management System | Spring Boot • React • MySQL |  | [Live Demo](...) |
-| 🎯 Talent Profiling & Career Guidance System | Python • ML • NLP • Streamlit | https://github.com/Fathimasha/Talent-profiling-and-career-optimization-system | [Live Demo](...) |
-| 📡 Morse Code Translator | Python • Streamlit | https://github.com/Fathimasha/morse-code-translator-py | [Live Demo](...) |
+| 🎓 Placement Management System | • Spring Boot  • React  • MySQL | https://github.com/Fathimasha/Placement-Management-System  | https://placement-management-system-rouge.vercel.app/ |
+| 🎯 Talent Profiling & Career Guidance System | • Python  • ML  • NLP  • Streamlit | https://github.com/Fathimasha/Talent-profiling-and-career-optimization-system | https://talent-profiling-and-career-optimization-system3.streamlit.app/ |
+| 📡 Morse Code Translator | • Python  • Streamlit | https://github.com/Fathimasha/morse-code-translator-py | [Live Demo](...) |
 
 ---
 
