@@ -58,43 +58,12 @@ I'm passionate about building full-stack web applications and exploring Artifici
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 
 ---
+| Project | Tech Stack | GitHub | Live Demo |
+|---------|------------|---------|-----------|
+| 🎓 Placement Management System | Spring Boot • React • MySQL |  | [Live Demo](...) |
+| 🎯 Talent Profiling & Career Guidance System | Python • ML • NLP • Streamlit | https://github.com/Fathimasha/Talent-profiling-and-career-optimization-system | [Live Demo](...) |
+| 📡 Morse Code Translator | Python • Streamlit | https://github.com/Fathimasha/morse-code-translator-py | [Live Demo](...) |
 
-## 📌 Featured Projects
-
-### 🎓 Placement Management System
-A full-stack web application for managing students, companies, placements, and recruitment activities.
-
-**Tech Stack:** Spring Boot, React, MySQL, REST API
-
-**Features**
-- Student Management
-- Company Management
-- Placement Tracking
-- Dashboard
-- CRUD Operations
-- Responsive User Interface
-
-🔗 **GitHub:** (https://github.com/Fathimasha/Placement-Management-System)
-
----
-
-### 🎯 Talent Profiling & Career Guidance System
-
-**Description:** An AI-powered web application that analyzes users' skills, interests, and aptitude to recommend suitable career paths and learning resources.
-
-**Tech Stack:** Python • Machine Learning • NLP • Streamlit • Pandas • Scikit-learn • Matplotlib
-
-🔗 **GitHub:** [[https://github.com/Fathimasha/](https://github.com/Fathimasha/morse-code-translator-py)]
-
----
-
-### 📡 Morse Code Translator
-
-**Description:** A Python-based application that converts plain text to Morse code and decodes Morse code back into readable text through a simple and interactive interface.
-
-**Tech Stack:** Python • Streamlit
-
-🔗 **GitHub:** [(https://github.com/Fathimasha/morse-code-translator-py)]
 ---
 
 ## 🌱 Currently Learning
@@ -108,9 +77,9 @@ A full-stack web application for managing students, companies, placements, and r
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ftahimasha&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Fathimasha&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ftahimasha&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Fathimasha&layout=compact&theme=tokyonight)
 
 ---
 
