@@ -7,37 +7,27 @@ I'm passionate about building full-stack web applications and exploring Artifici
 
 ## 🚀 About Me
 
-- 🎓 Computer Science Student
-- 💻 Interested in Full Stack Web Development
-- 🌱 Currently learning Spring Boot, React, REST APIs, and MySQL
-- 🤝 Open to internships, collaborations, and learning opportunities
-- 🎯 Goal: To become a skilled Software Engineer
+- 🎓 I'm currently pursuing a degree in Computer Science.
+- 💡 I enjoy learning by building projects and exploring new technologies.
+- 💻 My interests include Full-Stack Development, Machine Learning, and NLP.
+- 🌱 I'm currently strengthening my skills in Java, Spring Boot, React, Python, and MySQL.
 
 ---
 
-## 🛠️ Tech Stack
 
-### Programming Languages
-- Java
-- JavaScript
-- HTML5
-- CSS3
+## 💻 Tech Stack
 
-### Frameworks & Libraries
-- Spring Boot
-- React
-- Bootstrap
+**Languages:** Java, Python, JavaScript, HTML, CSS
 
-### Database
-- MySQL
+**Frameworks:** Spring Boot, React
 
-### Tools & Technologies
-- Git
-- GitHub
-- Postman
-- VS Code
-- IntelliJ IDEA
-- Eclipse
+**Database:** MySQL
+
+**ML:** Scikit-learn, Pandas, NumPy
+
+**Tools:** Git, GitHub, Postman, VS Code, IntelliJ IDEA
+
+**Deployment:** Vercel, Render, Railway
 
 ---
 
