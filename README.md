@@ -74,7 +74,7 @@ A full-stack web application for managing students, companies, placements, and r
 - CRUD Operations
 - Responsive User Interface
 
-🔗 Repository: (https://github.com/Fathimasha/Placement-Management-System)
+🔗 **GitHub:** (https://github.com/Fathimasha/Placement-Management-System)
 
 ---
 
@@ -84,7 +84,7 @@ A full-stack web application for managing students, companies, placements, and r
 
 **Tech Stack:** Python • Machine Learning • NLP • Streamlit • Pandas • Scikit-learn • Matplotlib
 
-🔗 **GitHub:** https://github.com/Fathimasha/
+🔗 **GitHub:** [[https://github.com/Fathimasha/](https://github.com/Fathimasha/morse-code-translator-py)]
 
 ---
 
@@ -94,12 +94,12 @@ A full-stack web application for managing students, companies, placements, and r
 
 **Tech Stack:** Python • Streamlit
 
-🔗 **GitHub:** https://github.com/Fathimasha/YOUR-REPOSITORY-NAME
+🔗 **GitHub:** [(https://github.com/Fathimasha/morse-code-translator-py)]
 ---
 
 ## 🌱 Currently Learning
 
-- Spring Security
+- Spring Boot
 - Docker
 - REST API Best Practices
 - Java Full-stack Development
