@@ -8,6 +8,10 @@
 ### 🎓 Computer Science Student | Software Development & AI Enthusiast
 
 I'm passionate about building full-stack web applications and exploring Artificial Intelligence through Machine Learning and Natural Language Processing. I enjoy developing scalable solutions with Java, Spring Boot, React, Python, and MySQL while continuously learning new technologies and improving my problem-solving skills.
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Fathimasha&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 ---
 
 ## 🚀 About Me
@@ -74,11 +78,23 @@ A full-stack web application for managing students, companies, placements, and r
 
 ---
 
-### 📚 More Projects
+### 🎯 Talent Profiling & Career Guidance System
 
-- Explore my repositories to find projects built using Java, Spring Boot, React, and MySQL, StreamLit, Python and ML.
-- My Github: https://github.com/Fathimasha
+**Description:** An AI-powered web application that analyzes users' skills, interests, and aptitude to recommend suitable career paths and learning resources.
 
+**Tech Stack:** Python • Machine Learning • NLP • Streamlit • Pandas • Scikit-learn • Matplotlib
+
+🔗 **GitHub:** https://github.com/Fathimasha/
+
+---
+
+### 📡 Morse Code Translator
+
+**Description:** A Python-based application that converts plain text to Morse code and decodes Morse code back into readable text through a simple and interactive interface.
+
+**Tech Stack:** Python • Streamlit
+
+🔗 **GitHub:** https://github.com/Fathimasha/YOUR-REPOSITORY-NAME
 ---
 
 ## 🌱 Currently Learning
@@ -102,6 +118,7 @@ A full-stack web application for managing students, companies, placements, and r
 
 - 💼 LinkedIn: [https://www.linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/fathimashaik2502/)
 - 📧 Email: fathimashaik2502@gmail.com
+- 💻 GitHub: https://github.com/Fathimasha
 
 ---
 
