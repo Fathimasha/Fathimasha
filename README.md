@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[YOUR_BANNER_IMAGE](https://lh3.googleusercontent.com/gg-dl/AFfU-fIJl8BmGoe6umdYqezvny4FKylT7W3muoNAYo-4OFnWu_6_5MnqY2tHwiVdzeOF-eBPXEfd_6nNGczTW0xofF83Jq9rcNkWAAVTyOI-tGq7edNdAgvVpDz0MvsUNqDA8VZVkYjxqu4rPKuVuDw6QQXkYY7qL14IHg1QJYm3VS0sgRX-6A=s1024-rj)" alt="Banner" />
+  <img src="ffee41b4-b07b-4213-ad6a-efc038077501.jfif" alt="Banner" />
 </p>
 
 
