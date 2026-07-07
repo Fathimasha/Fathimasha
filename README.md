@@ -1,9 +1,8 @@
 # Hi there, I'm Fathima Sha 👋
 
-### 💻 Full Stack Developer | Computer Science Student
+### 🎓 Computer Science Student | Software Development & AI Enthusiast
 
-Welcome to my GitHub profile! I'm a Computer Science student passionate about building scalable web applications and continuously learning new technologies. I enjoy solving real-world problems through clean, efficient, and user-friendly software.
-
+I'm passionate about building full-stack web applications and exploring Artificial Intelligence through Machine Learning and Natural Language Processing. I enjoy developing scalable solutions with Java, Spring Boot, React, Python, and MySQL while continuously learning new technologies and improving my problem-solving skills.
 ---
 
 ## 🚀 About Me
