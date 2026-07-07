@@ -52,7 +52,8 @@ A full-stack web application for managing students, companies, placements, and r
 
 ### 📚 More Projects
 
-Explore my repositories to find projects built using Java, Spring Boot, React, and MySQL, StreamLit, Python and ML.
+- Explore my repositories to find projects built using Java, Spring Boot, React, and MySQL, StreamLit, Python and ML.
+- My Github: https://github.com/Fathimasha
 
 ---
 
