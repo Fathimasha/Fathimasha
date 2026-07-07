@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" alt="Fathima Shaik Banner" width="100%" />
+  <img src="ffee41b4-b07b-4213-ad6a-efc038077501.jfif" alt="Fathima Shaik Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Fathima Shaik</h1>
@@ -77,9 +77,9 @@ Passionate about building full-stack web applications and exploring Artificial I
 
 | 🚀 Project | 💻 Tech Stack | 🔗 GitHub | 🌐 Live Demo |
 |------------|---------------|-----------|--------------|
-| **Placement Management System** | Spring Boot • React • MySQL | [Repository](https://github.com/Fathimasha/Placement-Management-System) | [Live Demo](https://placement-management-system-rouge.vercel.app/) |
-| **Talent Profiling & Career Guidance System** | Python • ML • NLP • Streamlit | [Repository](https://github.com/Fathimasha/Talent-profiling-and-career-optimization-system) | [Live Demo](https://talent-profiling-and-career-optimization-system3.streamlit.app/) |
-| **Morse Code Translator** | Python • Streamlit | [Repository](https://github.com/Fathimasha/morse-code-translator-py) | Coming Soon |
+| **Placement Management System** | Spring Boot • React • MySQL | https://github.com/Fathimasha/Placement-Management-System | https://placement-management-system-rouge.vercel.app/ |
+| **Talent Profiling & Career Guidance System** | Python • ML • NLP • Streamlit | https://github.com/Fathimasha/Talent-profiling-and-career-optimization-system | https://talent-profiling-and-career-optimization-system3.streamlit.app/ |
+| **Morse Code Translator** | Python • Streamlit | https://github.com/Fathimasha/morse-code-translator-py | Coming Soon |
 
 ---
 
@@ -94,18 +94,16 @@ Passionate about building full-stack web applications and exploring Artificial I
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Fathimasha&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fathimasha&layout=compact&theme=tokyonight" />
-</p>
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Fathimasha&show_icons=true&theme=tokyonight) 
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Fathimasha&layout=compact&theme=tokyonight)
 
 ---
 
 ## 📫 Connect With Me
 
-- 💼 **LinkedIn:** [Fathima Shaik](https://www.linkedin.com/in/fathimashaik2502/)
+- 💼 **LinkedIn:** https://www.linkedin.com/in/fathimashaik2502/
 - 📧 **Email:** fathimashaik2502@gmail.com
-- 💻 **GitHub:** [Fathimasha](https://github.com/Fathimasha)
+- 💻 **GitHub:** https://github.com/Fathimasha
 
 ---
 
